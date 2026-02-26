@@ -13,7 +13,7 @@ go to the terminal and input:
     mv launch.sh /Users/nicmoore/clawscripts
     nano ~/.zshrc
 then press enter
-in the file that opens, write DO NOT OVERWRITE OR CHANGE ANY OTHER POTENTIALLY EXISTING DATA IN THIS FILE, IT WILL BRAKE THE PC!:
+in the file that opens, write (DO NOT OVERWRITE OR CHANGE ANY OTHER POTENTIALLY EXISTING DATA IN THIS FILE, IT WILL BRAKE THE PC!):
 
 
     export PATH="/Users/nicmoore/clawscripts:$PATH"
